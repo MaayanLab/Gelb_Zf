@@ -2,3 +2,4 @@ venv/*
 *.pyc
 .ipynb_checkpoints
 *.csv
+*.pdf

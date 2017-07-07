@@ -8,3 +8,4 @@ requests == 2.14.2
 scipy == 0.15.1
 numpy == 1.12.1
 pandas == 0.20.1
+rpy2 == 2.5.6
